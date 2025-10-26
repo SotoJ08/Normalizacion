@@ -166,3 +166,7 @@ Pero si varios cursos pertenecen a la misma facultad, conviene crear una tabla s
 | 1NF | Separación de valores múltiples | Registros atómicos |
 | 2NF | Eliminación de dependencias parciales | Tablas por entidad (Curso, Profesor, Estudiante, Inscripción) |
 | 3NF | Eliminación de dependencias transitivas | Facultad separada; modelo completamente normalizado |
+
+## Enlace al video 
+https://drive.google.com/file/d/1rNlw60Htp33j3cLDwqvfQ9rdcjcWsgtt/view?usp=sharing
+
